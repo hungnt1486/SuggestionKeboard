@@ -1,0 +1,6 @@
+framework module SuggestionKB {
+  umbrella header "SuggestionKB-umbrella.h"
+
+  export *
+  module * { export * }
+}

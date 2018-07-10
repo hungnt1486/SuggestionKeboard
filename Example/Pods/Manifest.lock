@@ -1,0 +1,16 @@
+PODS:
+  - SuggestionKB (0.1.0)
+
+DEPENDENCIES:
+  - SuggestionKB (from `../`)
+
+EXTERNAL SOURCES:
+  SuggestionKB:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SuggestionKB: a6e6ebcaf64f1fe1619f41e34fbecbfacd378db6
+
+PODFILE CHECKSUM: 0f20b97bc5e6c52eb077b16a2bc53962aba6fdec
+
+COCOAPODS: 1.5.3
