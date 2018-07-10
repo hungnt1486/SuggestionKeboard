@@ -1,0 +1,6 @@
+use_frameworks!
+target 'SuggestionKB_Tests' do
+  pod 'SuggestionKB', :path => '../'
+  
+  
+end
